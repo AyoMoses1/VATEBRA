@@ -39,11 +39,11 @@ export default function Queries(){
     
     const countryElements =  queriedElements.length ? queriedElements.map(element => {
         return <div className='country__container' key = {element.name}>
-                    <Name>{element.name}</Name>
+                    <Name> {element.emoji} {element.name}</Name>
                     
                     <div className= {element.isShown ? "detail":"details"}>
                         <div className='marginTop'>Continent: {element.continent.name}</div>
-                        <div className='marginTop'>Emoji: {element.emoji}</div>
+
                         <div className='marginTop'>Capital: {element.capital}</div>
                         <div className='marginTop'>Phone: {element.phone}</div>
                         

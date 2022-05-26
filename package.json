@@ -2,7 +2,7 @@
   "name": "vatebra",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ayomoses1.github.io/Country-Catalog",
+  "homepage": "https://AyoMoses1.github.io/VATEBRA",
   "dependencies": {
     "@apollo/client": "^3.6.5",
     "@testing-library/jest-dom": "^5.16.4",
