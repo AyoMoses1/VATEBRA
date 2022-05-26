@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VATEBRA/static/css/main.805dac08.css",
+    "main.js": "/VATEBRA/static/js/main.9394ba50.js",
+    "index.html": "/VATEBRA/index.html",
+    "main.805dac08.css.map": "/VATEBRA/static/css/main.805dac08.css.map",
+    "main.9394ba50.js.map": "/VATEBRA/static/js/main.9394ba50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.805dac08.css",
+    "static/js/main.9394ba50.js"
+  ]
+}
